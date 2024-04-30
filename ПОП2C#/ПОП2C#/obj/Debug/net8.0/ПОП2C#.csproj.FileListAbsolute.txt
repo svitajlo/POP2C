@@ -1,0 +1,14 @@
+C:\Users\svita\source\repos\ПОП2C#\ПОП2C#\bin\Debug\net8.0\ПОП2C#.exe
+C:\Users\svita\source\repos\ПОП2C#\ПОП2C#\bin\Debug\net8.0\ПОП2C#.deps.json
+C:\Users\svita\source\repos\ПОП2C#\ПОП2C#\bin\Debug\net8.0\ПОП2C#.runtimeconfig.json
+C:\Users\svita\source\repos\ПОП2C#\ПОП2C#\bin\Debug\net8.0\ПОП2C#.dll
+C:\Users\svita\source\repos\ПОП2C#\ПОП2C#\bin\Debug\net8.0\ПОП2C#.pdb
+C:\Users\svita\source\repos\ПОП2C#\ПОП2C#\obj\Debug\net8.0\ПОП2C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svita\source\repos\ПОП2C#\ПОП2C#\obj\Debug\net8.0\ПОП2C#.AssemblyInfoInputs.cache
+C:\Users\svita\source\repos\ПОП2C#\ПОП2C#\obj\Debug\net8.0\ПОП2C#.AssemblyInfo.cs
+C:\Users\svita\source\repos\ПОП2C#\ПОП2C#\obj\Debug\net8.0\ПОП2C#.csproj.CoreCompileInputs.cache
+C:\Users\svita\source\repos\ПОП2C#\ПОП2C#\obj\Debug\net8.0\ПОП2C#.dll
+C:\Users\svita\source\repos\ПОП2C#\ПОП2C#\obj\Debug\net8.0\refint\ПОП2C#.dll
+C:\Users\svita\source\repos\ПОП2C#\ПОП2C#\obj\Debug\net8.0\ПОП2C#.pdb
+C:\Users\svita\source\repos\ПОП2C#\ПОП2C#\obj\Debug\net8.0\ПОП2C#.genruntimeconfig.cache
+C:\Users\svita\source\repos\ПОП2C#\ПОП2C#\obj\Debug\net8.0\ref\ПОП2C#.dll
